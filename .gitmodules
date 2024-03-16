@@ -1,3 +1,7 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/taimarahman/expense-tracker-java.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/taimarahman/expense-tracker-angular.git
+	branch = master
